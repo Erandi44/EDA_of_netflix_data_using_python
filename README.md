@@ -1,7 +1,7 @@
 # Netflix TV Show and Movie Ratings Analysis using Python
 
 <p align="center">
-<img src="images/img4.png" width=50% height=50%>
+<img src="images/img5.png" width=50% height=50%>
 </p>
 
 
